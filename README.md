@@ -13,8 +13,8 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=nathaliapatricia&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathaliapatricia&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=merko&hide_border=false"  alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=nathaliapatricia&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathaliapatricia&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=merko&hide_border=false"  alt="languages graph"  />
 </div>
 
 <div align="center">
