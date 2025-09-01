@@ -13,8 +13,8 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=nathaliapatricia&theme=onedark&hide_border=false" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nathaliapatricia&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false" height="170em" />
+  <img src="https://streak-stats.demolab.com?user=nathaliapatricia&theme=gruvbox&hide_border=false" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nathaliapatricia&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false" height="170em" />
 </div>
 
 
